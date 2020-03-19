@@ -1,0 +1,17 @@
+{
+  "name": "scrape-synopsis-with-isbn",
+  "version": "1.0.0",
+  "description": "Cherrio Scapper experiment to scrape synopsis with isbn numbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Velu S Gautam",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "csv-stringify": "^5.3.6",
+    "request": "^2.88.2"
+  }
+}
